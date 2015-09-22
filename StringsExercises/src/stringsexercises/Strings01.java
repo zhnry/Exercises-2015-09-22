@@ -8,7 +8,7 @@
  *
  * @author Phil O'Connell <pxo4@psu.edu>
  */
-public class StringsExercises {
+public class Strings01 {
 
   /**
    * @param args the command line arguments
