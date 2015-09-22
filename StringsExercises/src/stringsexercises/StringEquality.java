@@ -11,10 +11,10 @@ public class StringEquality {
   public static void main(String[] args) {
     System.out.println("Running Strings02");
 
-    String name1 = "Phil";
-    String name2 = new String("Phil");
+    String name1 = "Henry";
+    String name2 = "Phil";
 
-    if (name1 == name2) {
+    if (name1.equals(name2)) {
       System.out.println("they are equal");
     } else {
       System.out.println("they are not equal");
